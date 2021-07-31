@@ -1,0 +1,3 @@
+Pesquisa GRANT para tabela específica:
+- https://dev.mysql.com/doc/refman/5.5/en/show-grants.html
+- https://dev.mysql.com/doc/refman/5.5/en/grant.html#grant-table-privileges
